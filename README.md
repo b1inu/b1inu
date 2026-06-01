@@ -5,7 +5,7 @@ A few things I am working on:
 - [Dots](https://github.com/mndmnb/.dotfiles)
 - [Homelab](https://github.com/mndmnb/homelab)
 
-My stack:
+Working stack:
 - Python
 - C/C++
 - Java
@@ -16,5 +16,5 @@ My stack:
 - Bash
 
 Connect w/ me:
-- [Email](mailto:mnbmnd.dev@proton.me)
+- [Email](mailto:mennadmuneeb@gmail.com)
 - [LinkedIn](https://linkedin.com/in/muneebmennad)
