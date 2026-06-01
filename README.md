@@ -5,6 +5,16 @@ A few things I am working on:
 - [Dots](https://github.com/mndmnb/.dotfiles)
 - [Homelab](https://github.com/mndmnb/homelab)
 
+My stack:
+- Python
+- C/C++
+- Java
+- Typescript
+- Golang
+- AWS
+- Docker
+- Bash
+
 Connect w/ me:
 - [Email](mailto:mnbmnd.dev@proton.me)
 - [LinkedIn](https://linkedin.com/in/muneebmennad)
